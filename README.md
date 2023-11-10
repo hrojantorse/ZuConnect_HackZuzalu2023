@@ -2,6 +2,8 @@
 
 # Clinical Trials Bot
 
+![Dr Sus Logo](https://github.com/hrojantorse/ZuConnect_HackZuzalu2023/assets/148345042/27ad78b2-953f-4058-ae57-7a2764934a79)
+
 ## Description
 Clinical Trials Bot is a Telegram bot to help buoy coordination and participation in Clinical Trials that can accelerate society. 
 
